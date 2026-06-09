@@ -107,11 +107,12 @@ Real-time FinOps platform for financial visibility, anomaly detection, and autom
 <td align="left" width="50%" valign="top">
 
 ### [Data Guardin](https://github.com/bharathraj-ai)
-*Secure Data Management*  
+*Secure Enterprise Data Management*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-A secure management system protecting, storing, and organizing sensitive business information.
+A robust backend architecture for storing, organizing, and protecting sensitive business data with strict role-based access control and advanced security protocols.
 
 ---
 
