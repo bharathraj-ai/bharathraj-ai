@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bharathraj%20S&fontSize=60&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=65&descAlign=50&fontColor=ffffff" alt="Header" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI;Machine+Learning+Enthusiast;Full+Stack+Developer;Cybersecurity+Advocate;Competitive+Programmer;" alt="Typing SVG" />
-
-</div>
-
 ---
 
 <div align="center">
